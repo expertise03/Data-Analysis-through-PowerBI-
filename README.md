@@ -286,7 +286,7 @@ Electronic-Gadget-Sales-Analysis/
 
 <div align="center">
 
-### Gugi
+### HARINI P
 **Final Year B.Tech — Artificial Intelligence & Data Science**
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)]()
