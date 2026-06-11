@@ -275,7 +275,9 @@ Electronic-Gadget-Sales-Analysis/
 ## 📷 Dashboard Screenshots
 
 ### Dashboard 1 — Sales Overview
-> *Screenshot coming soon — add to `/Dashboard_Screenshots/Dashboard1.png`*
+<img width="1417" height="786" alt="Screenshot 2026-06-11 113137" src="https://github.com/user-attachments/assets/26866d2b-ee0a-4766-b20a-f5b084d5f2d5" />
+<img width="1415" height="787" alt="Screenshot 2026-06-11 112928" src="https://github.com/user-attachments/assets/38c4a69a-f48c-47c3-977f-e3842a25e638" />
+<img width="1427" height="797" alt="Screenshot 2026-06-11 113218" src="https://github.com/user-attachments/assets/9181cb0f-d58d-4c1a-9c3c-96fa6fe6f18c" />
 
 ### Dashboard 2 — Performance Analysis
 > *Screenshot coming soon — add to `/Dashboard_Screenshots/Dashboard2.png`*
